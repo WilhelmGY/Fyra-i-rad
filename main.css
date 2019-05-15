@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url(plankor.jpg);
+}
+
+#Spelare{
+  text-align: center;
+  margin-top: 2%;
+  color: yellow;
+}
+
+#Rutnät{
+  height: 80%;
+  width: 80%;
+  margin: 2% 10% 1% 10%;
+  border: solid 3px blue;
+}
+
+.Rad{
+  height: 12vh;
+  width: 99.1%;
+  /*margin: 0.2%;*/
+  border: solid 3px blue;
+}
+
+.Ruta{
+  height: 10vh;
+  width: 10%;
+  margin: 0.4% 1.8%;
+  float: none;
+  border: solid 3px blue;
+}
+
+#knappar{
+  margin-left: 10.1%;
+}
+
+.fyllruta{
+  height: 8vh;
+  width: 12%;
+  margin-left: 0.4%;
+  float: none;
+}
