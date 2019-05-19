@@ -18,7 +18,7 @@ body{
   width: 80%;
   margin: 2% 10% 1% 10%;
   border: solid 3px green;
-  /*filter: blur(3px);*/
+  /*filter: blur(3px);*//*Lägg till när bakgrundsfärg fungerar*/
 }
 
 .Rad{
